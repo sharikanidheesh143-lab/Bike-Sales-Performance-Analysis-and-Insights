@@ -24,11 +24,9 @@ Phase 2 visualizes the cleaned data to identify important patterns in bike purch
 - Bike Purchase by Income Category  
 - Eligibility Count by Income  
 - Purchase vs Target Gauge  
-- Interactive filters for:
-  - Education  
-  - Gender  
-  - Marital Status  
-  - Income Category  
+- Interactive filters for: 
+  - Taxable/non taxable  
+  - Marital Status    
   - Loan Eligibility
  
 Key Insights
